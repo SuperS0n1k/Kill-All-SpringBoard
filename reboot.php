@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
-echo exec('echo hi');
+echo exec('killall -9 springboard');
 ?>
+
+</body>
+</html>
